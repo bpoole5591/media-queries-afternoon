@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  },
+  "name": "media-queries-afternoon",
+  "description": "![alt text](./src/img/landing.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpoole5591/media-queries-afternoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpoole5591/media-queries-afternoon/issues"
+  },
+  "homepage": "https://github.com/bpoole5591/media-queries-afternoon#readme"
+}
